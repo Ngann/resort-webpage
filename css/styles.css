@@ -12,6 +12,11 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  text-align: center;
+  text-decoration: underline;
+}
+
 ul {
   text-align: center;
 }
@@ -23,4 +28,8 @@ li {
 p {
   text-shadow: heavey;
   text-align: center;
+}
+body {
+  background: #DCDCDC;
+  font-family: sans-serif;
 }
